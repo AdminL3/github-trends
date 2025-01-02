@@ -4,7 +4,7 @@
 
 Check out your GitHub Wrapped at `githubwrapped.io`!
 
-![github-wrapped](https://github.com/avgupta456/github-trends/assets/16708871/bf9406a4-6a49-4dbf-8f60-af221bb84bd6)
+[![github-wrapped](https://github.com/avgupta456/github-trends/assets/16708871/bf9406a4-6a49-4dbf-8f60-af221bb84bd6)](https://githubwrapped.io)
 
 ---
 
@@ -12,12 +12,8 @@ Check out your GitHub Wrapped at `githubwrapped.io`!
 
 GitHub Trends dives deep into the GitHub API to bring you exciting and impactful metrics about your code contributions. Generate insights on lines written by language, repository, and time. Easily embed dynamic images into your GitHub profile to share your statistics with the world. Check out some of the examples below:
 
-<a href="https://githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/avgupta456/langs?time_range=one_year&include_private=True&loc_metric=changed" />
-</a>
-<a href="https://githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/avgupta456/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed" />
-</a>
+[![GitHub Trends Langs](https://api.githubtrends.io/user/svg/avgupta456/langs?time_range=one_year&include_private=True&loc_metric=changed)](https://githubtrends.io)
+[![GitHub Trends Repos](https://api.githubtrends.io/user/svg/avgupta456/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed)](https://githubtrends.io)
 
 ## Quickstart
 
@@ -41,21 +37,21 @@ Visit [githubtrends.io](https://www.githubtrends.io) to create an account and ge
 
 Have questions? Check out [the demo](https://www.githubtrends.io/demo)!
 
-![image](https://user-images.githubusercontent.com/16708871/138611082-105e4dbc-8a27-4f68-8045-f9d86c912429.png)
+[![image](https://user-images.githubusercontent.com/16708871/138611082-105e4dbc-8a27-4f68-8045-f9d86c912429.png)](https://www.githubtrends.io)
 
 ---
 
 ## API Workflow (Alpha)
 
-Alternatively, you can communicate directly with the API to create and customize your cards. Read [docs/API.md](https://github.com/avgupta456/github-trends/blob/main/docs/API.md) to learn more about the API and customizations.
+Alternatively, you can communicate directly with the API to create and customize your cards. Read [docs/API.md](./docs/API.md) to learn more about the API and customizations.
 
 ## FAQ
 
-See [docs/FAQ.md](https://github.com/avgupta456/github-trends/blob/main/docs/FAQ.md).
+See [docs/FAQ.md](./docs/FAQ.md).
 
 ## Contributing
 
-See [docs/CONTRIBUTING.md](https://github.com/avgupta456/github-trends/blob/main/docs/CONTRIBUTING.md).
+See [docs/CONTRIBUTING.md](./docs/CONTRIBUTING.md).
 
 ## Acknowledgements
 
